@@ -46,7 +46,7 @@ Edit
 
 ---
 
-## Usage Instructions
+## Instructions
 
 1. Run the app locally.
 2. On the main page:
