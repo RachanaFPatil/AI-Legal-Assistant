@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+sentence-transformers
+spacy
+PyMuPDF
+beautifulsoup4
+requests
+en_core_web_sm
