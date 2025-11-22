@@ -28,18 +28,18 @@ This project is a legal document analysis tool that uses NLP and deep learning t
 1. Clone or download this repository from GitHub.
 
 2. Install the required Python packages using:
-
+```bash
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
-
+```
 csharp
 Copy
 Edit
 
 3. Launch the Streamlit app with:
-
+```bash
 streamlit run app.py
-
+```
 yaml
 Copy
 Edit
