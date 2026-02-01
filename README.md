@@ -37,8 +37,8 @@ python -m spacy download en_core_web_sm
 ```bash
 streamlit run app.py
 ```
-Note : To avoid repeated downloads and speed up startup, you may download the model once manually from:
-https://huggingface.co/nlpaueb/legal-bert-base-uncased and place it in a folder to access 
+Note : To avoid repeated downloads and speed up startup, the model can be downloaded once manually from:
+https://huggingface.co/nlpaueb/legal-bert-base-uncased and placed in a folder to access 
 
 ---
 
