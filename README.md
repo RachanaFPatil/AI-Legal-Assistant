@@ -32,17 +32,13 @@ This project is a legal document analysis tool that uses NLP and deep learning t
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 ```
-csharp
-Copy
-Edit
 
 3. Launch the Streamlit app with:
 ```bash
 streamlit run app.py
 ```
-yaml
-Copy
-Edit
+Note : To avoid repeated downloads and speed up startup, you may download the model once manually from:
+https://huggingface.co/nlpaueb/legal-bert-base-uncased and place it in a folder to access 
 
 ---
 
